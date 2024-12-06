@@ -1,4 +1,4 @@
-# Speaker Diarization and Transcription System
+# Speaker Transcription and User Diarisation
 
 ## Project Overview
 An advanced speech transcription system with user diarization that leverages machine learning technologies to provide precise, speaker-labeled transcripts. By integrating OpenAI's Whisper and advanced speaker recognition techniques, the project delivers high-quality transcription that can distinguish between multiple speakers in complex audio environments.
